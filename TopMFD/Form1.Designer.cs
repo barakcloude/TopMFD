@@ -39,6 +39,8 @@
             label3 = new Label();
             namevalue = new Label();
             label5 = new Label();
+            label4 = new Label();
+            label6 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -169,12 +171,36 @@
             label5.TabIndex = 10;
             label5.Text = "127";
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Arial", 10F, FontStyle.Bold);
+            label4.ForeColor = Color.Chartreuse;
+            label4.Location = new Point(15, 147);
+            label4.Name = "label4";
+            label4.Size = new Size(90, 19);
+            label4.TabIndex = 11;
+            label4.Text = "WEAPON:";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Font = new Font("Arial", 10F, FontStyle.Bold);
+            label6.ForeColor = Color.Chartreuse;
+            label6.Location = new Point(234, 20);
+            label6.Name = "label6";
+            label6.Size = new Size(57, 19);
+            label6.TabIndex = 12;
+            label6.Text = "SLOT:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
             ClientSize = new Size(383, 354);
+            Controls.Add(label6);
+            Controls.Add(label4);
             Controls.Add(label5);
             Controls.Add(namevalue);
             Controls.Add(label3);
@@ -212,5 +238,7 @@
         private Label label3;
         private Label namevalue;
         private Label label5;
+        private Label label4;
+        private Label label6;
     }
 }

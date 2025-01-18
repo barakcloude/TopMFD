@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopMFD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5e40a90f30f4c9908dd1e42a42f2709973feb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopMFD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopMFD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

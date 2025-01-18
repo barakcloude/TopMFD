@@ -1,0 +1,49 @@
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.exe
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.deps.json
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.runtimeconfig.json
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.dll
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.pdb
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.Form1.resources
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.csproj.GenerateResource.cache
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.AssemblyInfoInputs.cache
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.AssemblyInfo.cs
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.csproj.CoreCompileInputs.cache
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.dll
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\refint\TopMFD.dll
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.pdb
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.genruntimeconfig.cache
+C:\Users\barak\Desktop\C# מדריכים\TopMFD\TopMFD\obj\Debug\net9.0-windows\ref\TopMFD.dll
+C:\Users\USER\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.exe
+C:\Users\USER\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.deps.json
+C:\Users\USER\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.runtimeconfig.json
+C:\Users\USER\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.dll
+C:\Users\USER\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.pdb
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.Form1.resources
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.AssemblyInfo.cs
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.dll
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\refint\TopMFD.dll
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.pdb
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.genruntimeconfig.cache
+C:\Users\USER\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\ref\TopMFD.dll
+C:\Users\barak\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.exe
+C:\Users\barak\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.deps.json
+C:\Users\barak\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.runtimeconfig.json
+C:\Users\barak\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.dll
+C:\Users\barak\Desktop\TopMFD\TopMFD\bin\Debug\net9.0-windows\TopMFD.pdb
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.Form1.resources
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.csproj.GenerateResource.cache
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.AssemblyInfoInputs.cache
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.AssemblyInfo.cs
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.csproj.CoreCompileInputs.cache
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.dll
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\refint\TopMFD.dll
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.pdb
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.genruntimeconfig.cache
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\ref\TopMFD.dll
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.Properties.Resources.resources

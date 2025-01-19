@@ -5,7 +5,7 @@ local ip = "192.168.1.202"
 local portTrx = 10600
 trx:setpeername(ip, portTrx)
 trx:settimeout(1)
-
+--reveive
 local res = socket.udp()
 local portRes = 10200
 res:setsockname('*', portRes)

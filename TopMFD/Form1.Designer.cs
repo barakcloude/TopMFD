@@ -187,7 +187,7 @@
             label6.AutoSize = true;
             label6.Font = new Font("Arial", 10F, FontStyle.Bold);
             label6.ForeColor = Color.Chartreuse;
-            label6.Location = new Point(254, 20);
+            label6.Location = new Point(281, 20);
             label6.Name = "label6";
             label6.Size = new Size(57, 19);
             label6.TabIndex = 12;

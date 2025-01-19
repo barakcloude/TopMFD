@@ -41,6 +41,7 @@
             label5 = new Label();
             label4 = new Label();
             label6 = new Label();
+            label7 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -193,12 +194,23 @@
             label6.TabIndex = 12;
             label6.Text = "SLOT:";
             // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.ForeColor = Color.Chartreuse;
+            label7.Location = new Point(333, 19);
+            label7.Name = "label7";
+            label7.Size = new Size(24, 20);
+            label7.TabIndex = 13;
+            label7.Text = "ID";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Black;
             ClientSize = new Size(383, 354);
+            Controls.Add(label7);
             Controls.Add(label6);
             Controls.Add(label4);
             Controls.Add(label5);
@@ -240,5 +252,6 @@
         private Label label5;
         private Label label4;
         private Label label6;
+        private Label label7;
     }
 }

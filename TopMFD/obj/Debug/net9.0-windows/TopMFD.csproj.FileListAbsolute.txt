@@ -47,3 +47,4 @@ C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.pdb
 C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.genruntimeconfig.cache
 C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\ref\TopMFD.dll
 C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.Properties.Resources.resources
+C:\Users\barak\Desktop\TopMFD\TopMFD\obj\Debug\net9.0-windows\TopMFD.sourcelink.json
